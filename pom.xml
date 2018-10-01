@@ -14,5 +14,6 @@
         <module>../udemy-currency-exchange-service</module>
         <module>../udemy-currency-conversion-service</module>
         <module>../udemy-netflix-eureka-naming-server</module>
+        <module>../udemy-netflix-zuul-api-gateway-server</module>
     </modules>
 </project>
