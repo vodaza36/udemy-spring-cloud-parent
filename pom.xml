@@ -13,5 +13,6 @@
         <module>../udemy-spring-cloud-config-server</module>
         <module>../udemy-currency-exchange-service</module>
         <module>../udemy-currency-conversion-service</module>
+        <module>../udemy-netflix-eureka-naming-server</module>
     </modules>
 </project>
