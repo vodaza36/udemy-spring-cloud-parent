@@ -1,2 +1,8 @@
 .idea
 *.iml
+udemy-limits-service
+udemy-spring-cloud-config-server
+udemy-currency-exchange-service
+udemy-currency-conversion-service
+udemy-netflix-eureka-naming-server
+udemy-netflix-zuul-api-gateway-server
