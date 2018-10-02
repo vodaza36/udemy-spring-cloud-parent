@@ -9,11 +9,11 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>../udemy-limits-service</module>
-        <module>../udemy-spring-cloud-config-server</module>
-        <module>../udemy-currency-exchange-service</module>
-        <module>../udemy-currency-conversion-service</module>
-        <module>../udemy-netflix-eureka-naming-server</module>
-        <module>../udemy-netflix-zuul-api-gateway-server</module>
+        <module>udemy-limits-service</module>
+        <module>udemy-spring-cloud-config-server</module>
+        <module>udemy-currency-exchange-service</module>
+        <module>udemy-currency-conversion-service</module>
+        <module>udemy-netflix-eureka-naming-server</module>
+        <module>udemy-netflix-zuul-api-gateway-server</module>
     </modules>
 </project>
