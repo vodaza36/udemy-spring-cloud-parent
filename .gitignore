@@ -2,6 +2,7 @@
 *.iml
 udemy-limits-service
 udemy-spring-cloud-config-server
+udemy-spring-cloud-config
 udemy-currency-exchange-service
 udemy-currency-conversion-service
 udemy-netflix-eureka-naming-server

@@ -2,6 +2,7 @@
   "projects": {
     "udemy-limits-service": "https://github.com/vodaza36/udemy-limits-service.git",
     "udemy-spring-cloud-config-server": "https://github.com/vodaza36/udemy-spring-cloud-config-server.git",
+    "udemy-spring-cloud-config": "https://github.com/vodaza36/udemy-spring-cloud-config.git",
     "udemy-currency-exchange-service": "https://github.com/vodaza36/udemy-currency-exchange-service.git",
     "udemy-currency-conversion-service": "https://github.com/vodaza36/udemy-currency-conversion-service.git",
     "udemy-netflix-eureka-naming-server": "https://github.com/vodaza36/udemy-netflix-eureka-naming-server.git",
